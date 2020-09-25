@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ![XAML](https://img.shields.io/badge/-XAML-000000?style=flat&logo=xaml)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![scikit-learn](https://img.shields.io/badge/-scikit%2Dlearn-000000?style=flat&logo=scikit%2Dlearn)
-
+![scikit-learn](https://img.shields.io/badge/-scikit%2Dlearn-000000?style=flat&logo=scikit-learn)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-222222?style=flat&logo=visual-studio)
 <br>
 
 <br>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![VsCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-222222?style=flat&logo=Anaconda&logoColor=1575F9)
-
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-222222?style=flat&logo=visual%20studio)
 
 
 
