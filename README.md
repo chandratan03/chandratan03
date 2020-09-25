@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Halo My Name is Chandra Tan, I'm 
+Halo My Name is Chandra Tan, I'm a computer science student. 😁😁😁😁😁
 <!--
 **chandratan03/chandratan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### Languages I use
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
+##### Programming Language
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -35,15 +34,17 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![XAML](https://img.shields.io/badge/-XAML-000000?style=flat&logo=xaml)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![scikit-learn](https://img.shields.io/badge/-scikit%2Dlearn-000000?style=flat&logo=scikit-learn)
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-222222?style=flat&logo=visual-studio)
-<br>
 
 <br>
 
-#### Some of the technologies I have worked with
+##### Frameworks
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+
+
+<br>
+
+##### Some of the technologies that i used to 😀
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
@@ -51,12 +52,12 @@ Here are some ideas to get you started:
 ![VsCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-222222?style=flat&logo=Anaconda&logoColor=1575F9)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-222222?style=flat&logo=visual%20studio)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 
 
-
-
-📫 How to reach me:
+#####📫 How to reach me:
 Linkedin : https://www.linkedin.com/in/chandra-tan/
 <br>
 Instagram : https://www.instagram.com/chandra.tan_/
