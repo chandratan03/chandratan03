@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![XAML](https://img.shields.io/badge/-XAML-000000?style=flat&logo=xaml)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![scikit-learn](https://img.shields.io/badge/-scikit-learn-000000?style=flat&logo=scikit%2Dlearn)
+![scikit-learn](https://img.shields.io/badge/-scikit%2Dlearn-000000?style=flat&logo=scikit%2Dlearn)
 
 <br>
 
