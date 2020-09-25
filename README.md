@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![XAML](https://img.shields.io/badge/-XAML-000000?style=flat&logo=xaml)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 
 <br>
 
