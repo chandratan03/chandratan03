@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Halo My Name is Chandra Tan, I'm a computer science student. 😁😁😁😁😁
+Halo My Name is Chandra Tan, I'm a computer science student 😁😁😁😁😁. 
+
+I’m currently learning something that is related to AI and Database.  
+
 <!--
 **chandratan03/chandratan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 ##### Programming Language
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
