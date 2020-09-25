@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+![XAML](https://img.shields.io/badge/-XAML-000000?style=flat&logo=xaml)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-000000?style=flat&logo=scikit%-2Dlearn)
+
 <br>
 
 <br>
@@ -43,7 +49,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![VsCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
-
+![Anaconda](https://img.shields.io/badge/-Anaconda-222222?style=flat&logo=Anaconda&logoColor=1575F9)
 
 
 
