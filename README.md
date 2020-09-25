@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Halo My Name is Chandra Tan, I'm a computer science student 😁😁😁😁😁. 
+Halo My name is <b>Chandra Tan</b>, I'm currently a Computer Science student 😁😁😁😁😁. 
 
 I’m currently learning something that is related to AI and Database.  
 
