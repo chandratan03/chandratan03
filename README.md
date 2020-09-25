@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 Linkedin : https://www.linkedin.com/in/chandra-tan/
+<br>
 Instagram : https://www.instagram.com/chandra.tan_/
 
 
