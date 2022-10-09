@@ -1,23 +1,18 @@
 ### Hi there 👋
 
-Halo My name is <b>Chandra Tan</b>, I'm currently a Computer Science student 😁😁😁😁😁. 
+Hello! My name is <b>Chandra Tan</b>, I'm currently just graduated from computer science degree and working as Full Stack Engineer in Segari (Segari.id) 😁😁😁😁😁. 
 
-I’m currently learning something that is related to AI and Database.  
+The tech stacks that I'm currently use to develop which are spring boot, flutter, and react js.
 
-<!--
-**chandratan03/chandratan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+please feel free to contact us for any inquiries!
 
-Here are some ideas to get you started:
+ 
+##### 📫 How to reach me:
+Linkedin : https://www.linkedin.com/in/chandra-tan/
+<br>
+Portfolio : https://chandratan.site/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ##### Programming Language
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -44,7 +39,6 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 
-
 <br>
 
 ##### Technologies
@@ -58,12 +52,6 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
-
-
-##### 📫 How to reach me:
-Linkedin : https://www.linkedin.com/in/chandra-tan/
-<br>
-Instagram : https://www.instagram.com/chandra.tan_/
 
 
 
