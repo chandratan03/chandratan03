@@ -4,7 +4,7 @@ Hello! My name is <b>Chandra Tan</b>, I'm currently just graduated from computer
 
 The tech stacks that I'm currently use to develop which are spring boot, flutter, and react js.
 
-please feel free to contact us for any inquiries!
+please feel free to contact me for any inquiries!
 
  
 ##### 📫 How to reach me:
